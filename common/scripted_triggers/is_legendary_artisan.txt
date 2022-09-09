@@ -1,0 +1,4 @@
+is_legendary_artisan = {	
+	inspiration = { has_inspiration_type = $INSPIRATION_TYPE$_inspiration }
+	$INSPIRATION_TYPE$_inspiration_average_skill_value >= high_inspiration_skill
+}
