@@ -5,5 +5,5 @@ tags={
 	"Decisions"
 }
 name="Only Legendary Inspirations"
-supported_version="1.7.0"
+supported_version="1.7.*"
 remote_file_id="2823944104"
